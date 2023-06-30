@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jovitha-M
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning CSE at licet
+- 💞️ I’m looking to collaborate on product development
+- 📫 How to reach me www.linkedin.com/in/jovitha-melcy
